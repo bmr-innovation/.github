@@ -1,4 +1,4 @@
-# 🌐 Street Tech
+
 ## ✍🏼 autores
 
 <table>
