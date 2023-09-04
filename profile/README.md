@@ -2,7 +2,7 @@
 
 BMR Innovation é uma empresa inovadora que se dedica ao desenvolvimento de soluções tecnológicas de ponta para atender às necessidades de nossos clientes. Estamos comprometidos em oferecer produtos e serviços de alta qualidade que impulsionam o sucesso de nossos parceiros de negócios.
 
-## 👨🏼‍💻 Nossos Desenvolvedores 
+## 👨‍💻  Nossos Desenvolvedores 
 
 Conheça a equipe talentosa por trás da BMR Innovation:
 
