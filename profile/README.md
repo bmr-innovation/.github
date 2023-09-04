@@ -39,7 +39,7 @@ Conheça a equipe talentosa por trás da BMR Innovation:
         </td>
         <td align="center">
             <a href="https://github.com/br3nds0n">
-                <img src="https://user-images.githubusercontent.com/82064724/185726784-e8d151e8-29d6-4475-ba50-ca23f9429650.png"
+                <img src="https://github.com/bmr-innovation/.github/assets/82064724/520b1a2f-0737-477c-8551-457d6e8f6b32"
                     width="110" /></a><br>
             <sub>
                 <a href="https://www.linkedin.com/in/rafaeltomass/" target="_blank" rel="noreferrer" rel="noopener">
