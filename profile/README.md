@@ -26,7 +26,7 @@ Conheça a equipe talentosa por trás da BMR Innovation:
             </sub>
         </td>
         <td align="center">
-            <a href="https://github.com/br3nds0n">
+            <a href="https://github.com/mathLopes1">
                 <img src="https://user-images.githubusercontent.com/82064724/185726784-e8d151e8-29d6-4475-ba50-ca23f9429650.png"
                     width="110" /></a><br>
             <sub>
